@@ -4,7 +4,7 @@
 This project aims to conduct comprehensive data analytics on Uber trip data, leveraging a range of technologies such as GCP Storage, Python, Compute Engine, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture 
-<img src="https://github.com/hieuchelsea20121997/Uber-Data-Analytic-_DE-Project/blob/master/architecture.jpg">
+<img src="https://github.com/hieuchelsea20121997/ETL-DataPipeline-Uber-HuynhTrungHieuUIT/blob/master/architecture.jpg">
 
 ## Technology Used
 - Programming Language - Python
@@ -21,4 +21,4 @@ TLC Trip Record Data
 Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
 
 ## Data Model
-<img src="https://github.com/hieuchelsea20121997/Uber-Data-Analytic-_DE-Project/blob/master/data_model.jpeg">
+<img src="https://github.com/hieuchelsea20121997/ETL-DataPipeline-Uber-HuynhTrungHieuUIT/blob/master/data_model.jpeg">
